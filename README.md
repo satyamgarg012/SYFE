@@ -49,3 +49,9 @@ helm repo add grafana https://grafana.github.io/helm-charts Install the Grafana 
 helm install grafana/grafana
 
 ALL files are attached.
+
+
+![2023-05-03 (4)](https://user-images.githubusercontent.com/107166639/235868642-f00bf2e4-2ebf-46d6-b951-7555f9f7456c.png)
+![2023-05-03 (2)](https://user-images.githubusercontent.com/107166639/235868653-64e413b4-721e-481e-95f2-fac4bcb33ca9.png)
+![2023-05-03 (3)](https://user-images.githubusercontent.com/107166639/235868660-109c25d7-bf4b-48f9-8564-07a4a93257eb.png)
+
